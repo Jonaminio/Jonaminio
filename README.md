@@ -14,7 +14,7 @@
 I'm a information systems student [60% complete]
 
 - 💻 - Working at SimCo.
-- 🐍 - I love Python, Arduino, Power-BI and Excel.
+- 🐍 - I love Python, Arduino, Statistic, Power-BI and Excel.
 - ✍🏼 - I'm currently learning: NLP, Pandas and SQL.
 - 🎮- I'm currently Playing this games [@jonaminio](https://ggapp.io/jonaminio), and my favorite games are [@here](https://ggapp.io/jonaminio/lists/favs-yI8iTnJN) <s>Actually no time to play :shipit: <s>
   <br> </br>
