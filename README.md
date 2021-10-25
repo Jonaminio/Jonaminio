@@ -1,4 +1,4 @@
-# Hi, I'm Jonas Herminio! :shipit:
+# Hi, I'm Jonas Herminio! :goberserk:
 <i>Há tantos mundos quanto pessoas - Nier Automata</i>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaminio)
@@ -16,7 +16,7 @@ I'm a information systems student [60% complete]
 - 💻 - Working at Simco, Data Processing.
 - 🐍 - I love Python, Arduino, Power-BI and Excel.
 - ✍🏼 - I'm currently learning: NLP, Pandas and SQL.
-- 🎮- I'm currently Playing this games [@jonaminio](https://ggapp.io/jonaminio), and my favorite games are [@here](https://ggapp.io/jonaminio/lists/favs-yI8iTnJN) <s>Actually no time to play :(<s>
+- 🎮- I'm currently Playing this games [@jonaminio](https://ggapp.io/jonaminio), and my favorite games are [@here](https://ggapp.io/jonaminio/lists/favs-yI8iTnJN) <s>Actually no time to play :shipit: <s>
   <br> </br>
 <!---
 Jonaminio/Jonaminio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
