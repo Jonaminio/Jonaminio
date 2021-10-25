@@ -1,6 +1,6 @@
 # Hi, I'm Jonas Herminio! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jonaminio)](https://github.com/Jonaminio)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaminio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-h-5a509b175/)](https://www.linkedin.com/in/jonas-h-5a509b175/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whites&link=https://www.instagram.com/jonasherminio/)](https://www.instagram.com/jonasherminio/)
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://ggapp.io/jonaminio)
@@ -19,6 +19,7 @@ I'm a information systems student
 Jonaminio/Jonaminio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Stars](https://github-readme-stats.vercel.app/api?username=jonaminio&theme=blue-green)](https://github.com/Jonaminio)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaminio&theme=blue-green)](https://github.com/Jonaminio)
+[![Top Stars](https://github-readme-stats.vercel.app/api?username=jonaminio&theme=blue-green)](https://github.com/Jonaminio)
+
 
