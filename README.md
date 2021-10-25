@@ -1,4 +1,4 @@
-# Hi, I'm Jonas Herminio! :goberserk: 
+# Hi, I'm Jonas Herminio! :shipit:
 <i>Há tantos mundos quanto pessoas - Nier Automata</i>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaminio)
