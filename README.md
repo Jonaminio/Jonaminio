@@ -17,7 +17,7 @@ I'm a information systems student [60% complete]
 - 🐍 - I love Python, Arduino, Power-BI and Excel.
 - ✍🏼 - I'm currently learning: NLP, Pandas and SQL.
 - 🎮- I'm currently Playing this games [@jonaminio](https://ggapp.io/jonaminio), and my favorite games are [@here](https://ggapp.io/jonaminio/lists/favs-yI8iTnJN) <s>Actually no time to play :(<s>
-
+<br>
 <!---
 Jonaminio/Jonaminio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
