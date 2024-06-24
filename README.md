@@ -9,7 +9,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
 
 ### About me
-I'm a information systems student [60% complete]
+I'm a information systems student [90% complete]
 
 - 💻 - Working at TopDown Sistemas.
 - 🐍 - I love Python, Arduino, Statistic, Power-BI and Game development.
