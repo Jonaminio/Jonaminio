@@ -9,12 +9,10 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
 
 ### About me
-I'm a information systems student [90% complete]
+I'm a information systems student.
 
-- 💻 - Working at TopDown Sistemas.
 - 🐍 - I love Python, Arduino, Statistic, Power-BI and Game development.
 - ✍🏼 - I'm currently learning: NLP, Pandas and .NET.
-- 🎮- I'm currently Playing this games [@jonaminio](https://ggapp.io/jonaminio), and my favorite games are [@here](https://ggapp.io/jonaminio/lists/favs-yI8iTnJN) <s>Actually no time to play :shipit: <s>
   <br> </br>
 <!---
 Jonaminio/Jonaminio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
